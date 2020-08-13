@@ -29,7 +29,7 @@ ____
 ---
 
 <details open>
-<summary>💻 <b>My knowledges</b> :</summary>
+<summary>💻 <b>My knowledges</b>: </summary>
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
