@@ -1,89 +1,81 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">A passionate web developer and security from Italya</h3>
+<h3 align="center">I'm a student at University of Catania (Italy) appassionate of Web Development, Scripting and recently also in Cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkd-alex" alt="tkd-alex" /> </p>
+### My goals for 2020/21
+- Improve my CTF skills
+- Deepen my knowledge about DevOps
+- Contribute to open source projects
+- Graduate
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+____
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkd-alex&layout=compact" alt="tkd-alex" /></p>
+<details open>
+<summary>🤝 <b>Connect with me<b></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkd-alex&show_icons=true&count_private=true" alt="tkd-alex" /></p>
+<p align = "center">
 
-<p align="center">
-<a href="https://twitter.com/tkdaxel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tkdaxel" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aalessandromaggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aalessandromaggio" height="30" width="30" /></a>
-<a href="https://fb.com/aalessandromaggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aalessandromaggio" height="30" width="30" /></a>
-<a href="https://instagram.com/tkd_alex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tkd_alex" height="30" width="30" /></a>
+[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TkdAxel)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alex.github.io/)
+[<img src ="https://img.shields.io/badge/Telegram-1ca0f1.svg?&style=for-the-badge&logo=Telegram&logoColor=white%22&link=https://t.me/TkdAlex">](https://t.me/TkdAlex/)
+[<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alex.tkd.alex@gmail.com"/>](mailto:alex.tkd.alex@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aalessandromaggio/)
+[<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tkd_alex/)
+[![Visits Badge](https://badges.pufler.dev/visits/tkd-alex/tkd-alex?style=for-the-badge&color=blue)](https://github.com/tkd-alex/tkd-alex)
+![Repos Badge](https://badges.pufler.dev/repos/tkd-alex?style=for-the-badge&color=red)
+
 </p>
 
+</details>
+
+---
+
+<details open>
+<summary>💻 <b>My knowledges</b> :</summary>
+
+## Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![AngularJS](https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angularjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux)
+
+
+## Backend
+![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-282C34.svg?style=for-the-badge&logo=flask)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+
+## Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)
+
+
+</details>
+
+---
+
+<details open>
+ <summary>📊 <b>Github stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+    <img src="./images/321517cd-ff68-41a7-b0d1-e765680568a7-8b6448d9-c944-4146-b633-adbdd25cb471-v1.png" height="275" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tkd-alex&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tkd-alex">
+</p>
+
+</design>
+
+<details>
+ <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,940 Contributions in year 2020
- > 
-> 📦 Used 700.3 kB in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 18 Owned Private Repositories 
-
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    434 commits    ██████░░░░░░░░░░░░░░░░░░░   25.19% 
-🌆 Daytime    661 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
-🌃 Evening    598 commits    ████████░░░░░░░░░░░░░░░░░   34.71% 
-🌙 Night      30 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
-
-```
-📅 **I'm Most Productive on Wednesdays** 
-
-```text
-Monday       310 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Tuesday      291 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
-Wednesday    339 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67% 
-Thursday     254 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
-Friday       246 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
-Saturday     122 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-Sunday       161 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.34%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Europe/Rome
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
-**I mostly code in Python** 
-
-```text
-Python                   24 repos            █████████░░░░░░░░░░░░░░░░   38.71% 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-PHP                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
-
-```
-
-
-
 <!--END_SECTION:waka-->
+</details>

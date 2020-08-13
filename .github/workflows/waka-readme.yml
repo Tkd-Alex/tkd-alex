@@ -17,3 +17,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Update the readme with new waka stats"
           SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
