@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a student at University of Catania (Italy) appassionate of Web Development, Scripting and recently also in Cybersecurity.</h3>
+<h3 align="center">I'm a student at UNICT (Italy) appassionate of Web Development, Scripting and recently also in Cybersecurity.</h3>
 
 ### My goals for 2020/21
 - Improve my CTF skills
@@ -21,7 +21,6 @@ ____
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aalessandromaggio/)
 [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tkd_alex/)
 [![Visits Badge](https://badges.pufler.dev/visits/tkd-alex/tkd-alex?style=for-the-badge&color=blue)](https://github.com/tkd-alex/tkd-alex)
-![Repos Badge](https://badges.pufler.dev/repos/tkd-alex?style=for-the-badge&color=red)
 
 </p>
 
@@ -37,6 +36,7 @@ ____
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
 ![AngularJS](https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angularjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
@@ -48,6 +48,7 @@ ____
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
+
 ![Flask](https://img.shields.io/badge/-Flask-282C34.svg?style=for-the-badge&logo=flask)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff)
@@ -68,7 +69,7 @@ ____
 <br>
 
 <p align = "center">
-    <img src="./images/321517cd-ff68-41a7-b0d1-e765680568a7-8b6448d9-c944-4146-b633-adbdd25cb471-v1.png" height="275" />
+    <img src="https://raw.githubusercontent.com/Tkd-Alex/tkd-alex/master/images/321517cd-ff68-41a7-b0d1-e765680568a7-8b6448d9-c944-4146-b633-adbdd25cb471-v1.png" height="250" />
     <img src="https://github-readme-stats.vercel.app/api?username=tkd-alex&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tkd-alex">
 </p>
 
