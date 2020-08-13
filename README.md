@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a student at DMI (UNICT-It) appassionate of Web Dev, Scripting and recently also in CyberSecurity.</h3>
+<h3 align="center">I'm a student at DMI (University of Catania) 🇮🇹 appassionate of Web Development, Scripting and recently also in CyberSecurity and DevOps.</h3>
 
 ### My goals for 2020/21
 - Improve my CTF skills;
