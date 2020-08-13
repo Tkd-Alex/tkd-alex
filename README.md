@@ -5,7 +5,7 @@
 - Improve my CTF skills;
 - Deepen my knowledge about DevOps;
 - Contribute more to open source projects;
-- Graduate;
+- Master degree;
 
 ____
 
@@ -15,7 +15,7 @@ ____
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TkdAxel)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alex.github.io/)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alessandromaggio.it/)
 [<img src ="https://img.shields.io/badge/Telegram-1ca0f1.svg?&style=for-the-badge&logo=Telegram&logoColor=white%22&link=https://t.me/TkdAlex">](https://t.me/TkdAlex/)
 [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alex.tkd.alex@gmail.com"/>](mailto:alex.tkd.alex@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aalessandromaggio/)
