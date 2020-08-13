@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a student at UNICT (Italy) appassionate of Web Development, Scripting and recently also in Cybersecurity.</h3>
+<h3 align="center">I'm a student at DMI (UNICT-It) appassionate of Web Dev, Scripting and recently also in CyberSecurity.</h3>
 
 ### My goals for 2020/21
-- Improve my CTF skills
-- Deepen my knowledge about DevOps
-- Contribute to open source projects
-- Graduate
+- Improve my CTF skills;
+- Deepen my knowledge about DevOps;
+- Contribute more to open source projects;
+- Graduate;
 
 ____
 
@@ -64,7 +64,7 @@ ____
 ---
 
 <details open>
- <summary>📊 <b>Github stats</b>: </summary>
+ <summary>📊 <b>GitHub stats</b>: </summary>
 
 <br>
 
