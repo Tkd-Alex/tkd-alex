@@ -20,7 +20,7 @@ ____
 [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alex.tkd.alex@gmail.com"/>](mailto:alex.tkd.alex@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aalessandromaggio/)
 [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tkd_alex/)
-[![Visits Badge](https://badges.pufler.dev/visits/tkd-alex/tkd-alex?style=for-the-badge&color=blue)](https://github.com/tkd-alex/tkd-alex)
+<!--- [![Visits Badge](https://badges.pufler.dev/visits/tkd-alex/tkd-alex?style=for-the-badge&color=blue)](https://github.com/tkd-alex/tkd-alex) -->
 
 </p>
 
