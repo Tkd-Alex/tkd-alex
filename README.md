@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
 <h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity, DevOps and ML/NLP fields.</h3>
+
 ____
 
 <details open>
