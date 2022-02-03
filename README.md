@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity and DevOps fields.</h3>
-
-### My goals for 2020/21
-- Improve my CTF skills;
-- Deepen my knowledge about DevOps;
-- Contribute more to open source projects;
-
+<h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity, DevOps and ML/NLP fields.</h3>
 ____
 
 <details open>
