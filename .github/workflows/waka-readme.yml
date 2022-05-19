@@ -18,3 +18,4 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_PROJECTS: "False"
