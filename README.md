@@ -68,7 +68,7 @@ ____
  <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2051%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -128,7 +128,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2022 06:07:24 UTC
+ Last Updated on 28/11/2022 06:08:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
