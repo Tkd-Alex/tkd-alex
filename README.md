@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity, DevOps and ML/NLP fields.</h3>
+<h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity.</h3>
 
 ____
 
-<details open>
-<summary>🤝 <b>Connect with me<b></summary>
+🤝 <b>Connect with me<b>
 
 <p align = "center">
 
@@ -18,18 +17,15 @@ ____
 
 </p>
 
-</details>
-
 ---
 
-<details open>
-<summary>💻 <b>My knowledges</b>: </summary>
+💻 <b>My knowledges</b>:
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
@@ -48,81 +44,11 @@ ____
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)
 
-</details>
-
 ---
 
-<details open>
- <summary>📊 <b>GitHub stats</b>: </summary>
-
+📊 <b>GitHub stats</b>:
 <br>
-
 <p align = "center">
     <img src="https://raw.githubusercontent.com/Tkd-Alex/tkd-alex/master/images/321517cd-ff68-41a7-b0d1-e765680568a7-8b6448d9-c944-4146-b633-adbdd25cb471-v1.png" height="250" />
     <img src="https://github-readme-stats.vercel.app/api?username=tkd-alex&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tkd-alex">
 </p>
-
-</design>
-
-<details>
- <summary>👨‍💻 <b>Programming stats (Click to expand)</b>: </summary>
- 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2054%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                18321 commits       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-🌆 Daytime                28695 commits       ██████████░░░░░░░░░░░░░░░   39.39 % 
-🌃 Evening                23637 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌙 Night                  2188 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   13436 commits       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Tuesday                  12489 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                14070 commits       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Thursday                 11081 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Friday                   11281 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 4706 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Sunday                   5778 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-TypeScript               19 mins             █████████████████░░░░░░░░   68.51 % 
-Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-🔥 Editors: 
-Sublime Text             28 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   34 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
- Last Updated on 01/09/2023 06:21:39 UTC
-<!--END_SECTION:waka-->
-
-</details>
